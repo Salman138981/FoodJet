@@ -1,7 +1,15 @@
 
-# Online Food Delivery Application:
+# REST API Online Food Delivery Application: FoodJet
+* We have developed this REST API for Online Food Delivery Application. This API performs all the fundamental CRUD Operations of any Food Delivery Application platform which user validation at every step.
+* This project is developed by a team of 4 Back-end Developers during project week in Masai School.
 
-This is a README file for an Online Food Delivery Application that aims to create a bridge between restaurants and customers. The application is being developed using the Spring Boot framework for the backend and HTML, CSS, and JavaScript for the frontend.
+## Tech Stack
+* java
+* Spring Framework
+* Spring Boot
+* Hibernate
+* MySQL
+  
 
 ## Problem Statement:
 
